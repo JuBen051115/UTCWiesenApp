@@ -4,5 +4,4 @@
   "linkTermine": "https://docs.google.com/spreadsheets/d/1-mP8nIrMpkKPirKPMOfUhzpMY1IAIMelu_iyUlMnMqM/edit?usp=sharing", 
   "linkSpielerportal": "https://tenat-id.liga.nu/oauth2/authz?language=de&state=e6cc2b2d99903b485edc9e636851becf&scope=profile&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fwww.tennisburgenland.at%2Ftypo3conf%2Fext%2Foidc%2FResources%2FPublic%2Fcallback.php&client_id=gdwBBLf34V",
   "linkMeisterschaftAK": "https://www.tennisburgenland.at/liga/allgemeine-klasse/gruppe/g/196908.html",
-  "linkMeisterschaft45": "https://www.tennisburgenland.at/liga/senioren/gruppe/g/196350.html"
 }
